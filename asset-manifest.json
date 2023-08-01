@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thanvi08/static/css/main.08668600.chunk.css",
-    "main.js": "/thanvi08/static/js/main.d10a24e8.chunk.js",
-    "main.js.map": "/thanvi08/static/js/main.d10a24e8.chunk.js.map",
-    "runtime-main.js": "/thanvi08/static/js/runtime-main.a1cd31ab.js",
-    "runtime-main.js.map": "/thanvi08/static/js/runtime-main.a1cd31ab.js.map",
-    "static/js/2.cdccbf54.chunk.js": "/thanvi08/static/js/2.cdccbf54.chunk.js",
-    "static/js/2.cdccbf54.chunk.js.map": "/thanvi08/static/js/2.cdccbf54.chunk.js.map",
+    "main.js": "/thanvi08/static/js/main.d2576b3e.chunk.js",
+    "main.js.map": "/thanvi08/static/js/main.d2576b3e.chunk.js.map",
+    "runtime-main.js": "/thanvi08/static/js/runtime-main.46c50eb4.js",
+    "runtime-main.js.map": "/thanvi08/static/js/runtime-main.46c50eb4.js.map",
+    "static/js/2.b9441f48.chunk.js": "/thanvi08/static/js/2.b9441f48.chunk.js",
+    "static/js/2.b9441f48.chunk.js.map": "/thanvi08/static/js/2.b9441f48.chunk.js.map",
     "index.html": "/thanvi08/index.html",
-    "precache-manifest.a81e4c920cde0a91efcfa4fb05620d77.js": "/thanvi08/precache-manifest.a81e4c920cde0a91efcfa4fb05620d77.js",
+    "precache-manifest.0e7540c09ef1814176e736f3bea3e150.js": "/thanvi08/precache-manifest.0e7540c09ef1814176e736f3bea3e150.js",
     "service-worker.js": "/thanvi08/service-worker.js",
     "static/css/main.08668600.chunk.css.map": "/thanvi08/static/css/main.08668600.chunk.css.map",
     "static/media/index.css": "/thanvi08/static/media/Montserrat-Regular.ee653992.ttf",
@@ -52,9 +52,9 @@
     "static/media/ui_ux_design.svg": "/thanvi08/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1cd31ab.js",
-    "static/js/2.cdccbf54.chunk.js",
+    "static/js/runtime-main.46c50eb4.js",
+    "static/js/2.b9441f48.chunk.js",
     "static/css/main.08668600.chunk.css",
-    "static/js/main.d10a24e8.chunk.js"
+    "static/js/main.d2576b3e.chunk.js"
   ]
 }
